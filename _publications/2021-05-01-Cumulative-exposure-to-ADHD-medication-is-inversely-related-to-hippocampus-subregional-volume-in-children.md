@@ -1,0 +1,10 @@
+---
+title: "Cumulative exposure to ADHD medication is inversely related to hippocampus subregional volume in children"
+collection: publications
+permalink: /publication/2021-05-01-Cumulative-exposure-to-ADHD-medication-is-inversely-related-to-hippocampus-subregional-volume-in-children
+date: 2021-05-01
+venue: 'NeuroImage: Clinical'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S221315822100139X'
+citation: 'Fotopoulos, Nellie H, Devenyi, Gabriel A, Guay, Stephanie, Sengupta, Sarojini M, Mallar Chakravarty, M, Grizenko, Natalie, Karama, Sherif, Joober, Ridha, &quot;Cumulative exposure to ADHD medication is inversely related to hippocampus subregional volume in children.&quot; NeuroImage: Clinical, 2021.'
+---
+[Access paper here](https://www.sciencedirect.com/science/article/pii/S221315822100139X){:target="_blank"}
