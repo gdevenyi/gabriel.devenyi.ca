@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-CA"
+title                    : "Gabriel A. Devenyi"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Gabriel A. Devenyi"
+description              : &description "Expert Generalist"
+url                      : https://gabriel.devenyi.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "gdevenyi/gabriel.devenyi.ca"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Gabriel A. Devenyi"
+  avatar           : "Gabriel.Devenyi.Headshot_square.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Montreal, QC, Canada"
+  employer         : "Douglas University Mental Health Institute, Department of Psychiatry, McGill University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(Devenyi, Gabriel[Author]) OR (Devenyi, Gabriel A[Author]) OR (Devenyi, G[Author]) OR (Devenyi, G A[Author]) OR (Devenyi, GA[Author])"
+  googlescholar    : "https://scholar.google.com/citations?user=-H-H1AoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/gdevenyi"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "gdevenyi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7766-1187"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "gadevenyi"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Canada/Eastern # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
