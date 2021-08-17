@@ -141,6 +141,9 @@ for pubsource in publist:
                 + html_filename
             )
 
+            if b["location"]:
+                md += """\nlocation: """ + '"' + b["location"] + '"'
+
             note = False
             if "note" in b.keys():
                 if len(str(b["note"])) > 5:

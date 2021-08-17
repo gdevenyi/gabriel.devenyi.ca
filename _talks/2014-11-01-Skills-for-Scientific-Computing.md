@@ -2,6 +2,7 @@
 title: "Skills for Scientific Computing"
 collection: talks
 permalink: /talks/2014-11-01-Skills-for-Scientific-Computing
+location: "Saint-Hyacinthe, QC, Canada"
 date: 2014-11-01
 venue: 'Software Carpentry Workshop, Faculty of Medicine, University de Montreal'
 paperurl: 'https://dhaine.github.io/2014-11-06-fmv/'

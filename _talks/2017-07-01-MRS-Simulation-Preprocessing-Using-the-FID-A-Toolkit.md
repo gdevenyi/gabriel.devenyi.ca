@@ -2,6 +2,7 @@
 title: "MRS Simulation &amp; Preprocessing Using the FID-A Toolkit"
 collection: talks
 permalink: /talks/2017-07-01-MRS-Simulation-Preprocessing-Using-the-FID-A-Toolkit
+location: "Online"
 date: 2017-07-01
 venue: 'MR Spectroscopy Study Group, ISMRM Virtual Meetings'
 paperurl: 'https://www.ismrm.org/virtual-meetings/virtual-meetings-archive/'
