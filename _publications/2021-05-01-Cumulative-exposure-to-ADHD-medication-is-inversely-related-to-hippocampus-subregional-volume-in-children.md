@@ -7,4 +7,3 @@ venue: 'NeuroImage: Clinical'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S221315822100139X'
 citation: 'Fotopoulos, Nellie H, <b>Devenyi, Gabriel A</b>, Guay, Stephanie, Sengupta, Sarojini M, Mallar Chakravarty, M, Grizenko, Natalie, Karama, Sherif, Joober, Ridha, &quot;Cumulative exposure to ADHD medication is inversely related to hippocampus subregional volume in children.&quot; NeuroImage: Clinical, 2021.'
 ---
-[Access paper here](https://www.sciencedirect.com/science/article/pii/S221315822100139X){:target="_blank"}

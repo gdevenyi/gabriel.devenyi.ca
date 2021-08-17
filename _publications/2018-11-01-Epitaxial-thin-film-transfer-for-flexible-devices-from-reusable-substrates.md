@@ -7,4 +7,3 @@ venue: 'Materials Research Express'
 paperurl: 'https://iopscience.iop.org/article/10.1088/2053-1591/aaf264/meta'
 citation: 'Jovanovic, S M, <b>Devenyi, G A</b>, Kuyanov, P, Carvalho, J L, Meinander, K, LaPierre, R R, Preston, J S, &quot;Epitaxial thin film transfer for flexible devices from reusable substrates.&quot; Materials Research Express, 2018.'
 ---
-[Access paper here](https://iopscience.iop.org/article/10.1088/2053-1591/aaf264/meta){:target="_blank"}

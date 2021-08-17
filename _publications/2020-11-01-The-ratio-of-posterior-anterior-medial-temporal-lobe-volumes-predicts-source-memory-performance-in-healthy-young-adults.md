@@ -7,4 +7,3 @@ venue: 'Hippocampus'
 paperurl: 'http://dx.doi.org/10.1002/hipo.23251'
 citation: 'Snytte, Jamie, Elshiekh, Abdelhalim, Subramaniapillai, Sivaniya, Manning, Lyssa, Pasvanis, Stamatoula, <b>Devenyi, Gabriel A</b>, Olsen, Rosanna K, Rajah, Maria Natasha, &quot;The ratio of posterior-anterior medial temporal lobe volumes predicts source memory performance in healthy young adults.&quot; Hippocampus, 2020.'
 ---
-[Access paper here](http://dx.doi.org/10.1002/hipo.23251){:target="_blank"}

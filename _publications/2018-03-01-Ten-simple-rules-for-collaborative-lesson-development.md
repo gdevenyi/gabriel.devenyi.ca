@@ -7,4 +7,3 @@ venue: 'PLoS computational biology'
 paperurl: 'http://dx.doi.org/10.1371/journal.pcbi.1005963'
 citation: '<b>Devenyi, Gabriel A</b>, Emonet, Rémi, Harris, Rayna M, Hertweck, Kate L, Irving, Damien, Milligan, Ian, Wilson, Greg, &quot;Ten simple rules for collaborative lesson development.&quot; PLoS computational biology, 2018.'
 ---
-[Access paper here](http://dx.doi.org/10.1371/journal.pcbi.1005963){:target="_blank"}

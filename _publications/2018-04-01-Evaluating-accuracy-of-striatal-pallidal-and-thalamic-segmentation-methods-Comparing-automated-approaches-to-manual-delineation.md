@@ -7,4 +7,3 @@ venue: 'NeuroImage'
 paperurl: 'http://dx.doi.org/10.1016/j.neuroimage.2017.02.069'
 citation: 'Makowski, Carolina, Béland, Sophie, Kostopoulos, Penelope, Bhagwat, Nikhil, <b>Devenyi, Gabriel A</b>, Malla, Ashok K, Joober, Ridha, Lepage, Martin, Chakravarty, M Mallar, &quot;Evaluating accuracy of striatal, pallidal, and thalamic segmentation methods: Comparing automated approaches to manual delineation.&quot; NeuroImage, 2018.'
 ---
-[Access paper here](http://dx.doi.org/10.1016/j.neuroimage.2017.02.069){:target="_blank"}

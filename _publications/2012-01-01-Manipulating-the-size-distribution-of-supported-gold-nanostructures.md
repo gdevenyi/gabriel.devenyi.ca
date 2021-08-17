@@ -7,4 +7,3 @@ venue: 'Applied physics letters'
 paperurl: 'https://doi.org/10.1063/1.3675569'
 citation: 'Sundar, A, Hughes, R A, Farzinpour, P, Gilroy, K D, <b>Devenyi, G A</b>, Preston, J S, Neretina, S, &quot;Manipulating the size distribution of supported gold nanostructures.&quot; Applied physics letters, 2012.'
 ---
-[Access paper here](https://doi.org/10.1063/1.3675569){:target="_blank"}
