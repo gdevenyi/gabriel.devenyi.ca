@@ -55,7 +55,7 @@ The cerebellum in particular is the ‘odd man out’. While it has left-right s
 ### How much splitting is too much?
 So far, every argument for changing the way we setup registrations has suggested that we split the MAGeTbrain runs into smaller pieces, but how much is too much? The ultimate limit for splitting is label adjacency. Part of MAGeTbrain's success has been its ability to maintain the relative proportions and relationship of adjacent anatomy through the SyN Gaussian regularization in ANTs, if the subfields of the hippocampus were split up, there is no longer a guarantee in a given registration run that subfields would not cross into adjacent subfields. One could conceivably split each left/right anatomically coherent label into its own MAGeTbrain run, but only in the most extreme circumstances would that be needed.
 
-# #So what should I do?
+## So what should I do?
 What does this mean for running MAGeTbrain? Well, this depends on your population, but first, the general recommendations.
 
 Use extracted brains for all templates/subjects
