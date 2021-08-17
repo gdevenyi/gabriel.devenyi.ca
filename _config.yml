@@ -11,9 +11,9 @@ title                    : "Gabriel A. Devenyi"
 title_separator          : "-"
 name                     : &name "Gabriel A. Devenyi"
 description              : &description "Expert Generalist"
-url                      : https://gabriel.devenyi.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gdevenyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gdevenyi/gabriel.devenyi.ca"
+repository               : "gdevenyi/gdevenyi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
