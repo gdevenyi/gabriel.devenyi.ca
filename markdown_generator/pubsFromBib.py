@@ -102,9 +102,11 @@ for pubsource in publist:
             citation = (
                 citation
                 + '"'
+                + "<i>"
                 + html_escape(
                     b["title"].replace("{", "").replace("}", "").replace("\\", "")
                 )
+                + "</i>"
                 + '."'
             )
 
