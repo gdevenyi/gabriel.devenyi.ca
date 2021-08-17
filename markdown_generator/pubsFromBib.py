@@ -30,8 +30,14 @@ publist = {
         "file": "papers.bib",
         "venuekey": "journal",
         "venue-pretext": "",
-        "collection": {"name": "publications", "permalink": "/publication/"},
+        "collection": {"name": "publications", "permalink": "/publication/", "path": "../_publications/"},
     },
+    "talk": {
+        "file": "invited.bib",
+        "venuekey": "howpublished",
+        "venue-pretext": "",
+        "collection": {"name": "talks", "permalink": "/talks/", "path": "../_talks/"},
+    }
 }
 
 html_escape_table = {"&": "&amp;", '"': "&quot;", "'": "&apos;"}
@@ -170,7 +176,7 @@ for pubsource in publist:
 
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, "w") as f:
+            with open(publist[pubsource]["collection"]["path"] + md_filename, "w") as f:
                 f.write(md)
             print(
                 f'SUCESSFULLY PARSED {bib_id}: "',
