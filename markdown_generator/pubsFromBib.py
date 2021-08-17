@@ -93,11 +93,10 @@ for pubsource in publist:
 
             # citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = (
-                    citation
-                    + str(author)
-                    + ", "
-                )
+                if "devenyi" in str(author).lower():
+                    citation = citation + "<b>" + str(author) + "</b>" + ", "
+                else:
+                    citation = citation + str(author) + ", "
 
             # citation title
             citation = (
