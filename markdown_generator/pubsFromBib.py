@@ -143,6 +143,7 @@ for pubsource in publist:
 
             if b["location"]:
                 md += """\nlocation: """ + '"' + b["location"] + '"'
+                md += """\ntype: Invited Presentation"""
 
             note = False
             if "note" in b.keys():
