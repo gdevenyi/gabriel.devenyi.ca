@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I work as a Programmer-Scientist at the [Douglas Mental Health University Institute](http://www.douglas.qc.ca/).
+I work as a Programmer-Scientist (Research Associate) at the
+[Douglas Mental Health University Institute](http://www.douglas.qc.ca/), specifically
+the [Cerebral Imaging Centre (CIC)](https://douglas.research.mcgill.ca/cerebral-imaging-centre)
+at the [Douglas Research Center](https://douglas.research.mcgill.ca/).
 Academically, I hold an affiliate appointment with the [Department of Psychiatry at
 McGill University](https://www.mcgill.ca/psychiatry/).
 That job title however, doesn't tell you much about what I actually do, so I like to
@@ -26,10 +29,11 @@ We use [Ubuntu Linux](http://ubuntu.com/),
 and [SGE](https://arc.liv.ac.uk/trac/SGE) (soon [SLURM](https://slurm.schedmd.com/documentation.html))
 to provide a uniform platform providing storage and compute across a heterogenous set of hardware.
 
-I write software and automation wherever I can can to help me (see projects),
+I write software and automation wherever I can can to help me,
 bash scripts, python scripts, ansible playbooks. I report bugs, and program fixes
 to problems and contribute them back to the community when I can. We maintain a
-suite of scientific software with the environment-modules (soon to be lmod) system.
+suite of scientific software with the [environment-modules](https://modules.readthedocs.io)
+(soon to be [lmod](https://lmod.readthedocs.io/)) system.
 This takes little of my day-to-day, because the computer hardware is reliable,
 and I've automated much of the work.
 
@@ -40,15 +44,15 @@ I can successfully configure a standards-compliant mail server, even if Outlook3
 silently drops that mail because Microsoft are jerks.
 
 This compute platform used to be exclusively for the neuroimaging department of
-the Douglas Research Center, but recently I became project lead of the Douglas
-Neuroinformatics Platform, which will expand the platform to serve all of the Douglas
-Research Center.
+the Douglas Research Center, but recently I became project lead of the [Douglas
+Neuroinformatics Platform](https://docs.douglasneuroinformatics.ca/), which will expand the
+compute platform to serve all of the Douglas Research Center.
 
 ## The Scientific Programmer and HPC Hat
 
 I write software for magnetic resonance imaging (MRI) processing, primarily for
-structural imaging. Image registration is my favourite focus (see posts), but
-I also work on classification and segmentation problems, see projects. I'm particularly proud
+structural imaging. Image registration is my favourite focus (see [posts](/year-archive/)), but
+I also work on classification and segmentation problems, see [projects](/projects/). I'm particularly proud
 of my work in generalizing tools to work across a large range of species, from mice
 all the way through non-human primates, to humans. I code in whatever is convenient,
 bash, python, C, C++, perl and rarely, MATLAB. As you might have guessed, I'm not
@@ -83,4 +87,3 @@ to the labs I support at the Douglas Research Center and worldwide collaborators
 I'm also a maintainer of the [shell-novice](https://github.com/swcarpentry/shell-novice/) lessons from
 [Software Carpentry](https://software-carpentry.org/), an organization who's providing excellent
 education materials to fill the computational knowledge gap in undergraduate and graduate science education.
-
