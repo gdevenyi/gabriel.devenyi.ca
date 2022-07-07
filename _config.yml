@@ -87,7 +87,7 @@ author:
   employer         : "Douglas Mental Health<br>University Institute<br>Department of Psychiatry<br>McGill University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(Devenyi, Gabriel[Author]) OR (Devenyi, Gabriel A[Author]) OR (Devenyi, G[Author]) OR (Devenyi, G A[Author]) OR (Devenyi, GA[Author])"
   googlescholar    : "https://scholar.google.com/citations?user=-H-H1AoAAAAJ&hl=en"
-  email            :
+  email            : "gdevenyi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : "gdevenyi"
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-7766-1187"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/4130016/gabriel-devenyi"
   steam            :
   tumblr           :
   twitter          : "gadevenyi"
