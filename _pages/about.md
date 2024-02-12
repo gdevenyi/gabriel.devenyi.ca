@@ -1,9 +1,8 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -24,7 +23,7 @@ all the miscellany that goes along with them. The Douglas Research Center
 I perform all the installation, setup and maintenance of this informatics system.
 I install software people ask for, and make sure it works everywhere.
 
-We use [Ubuntu Linux](http://ubuntu.com/), 
+We use [Ubuntu Linux](http://ubuntu.com/),
 [ZFS](https://github.com/openzfs/zfs)+[NFS](https://en.wikipedia.org/wiki/Network_File_System),
 and [SGE](https://arc.liv.ac.uk/trac/SGE) (soon [SLURM](https://slurm.schedmd.com/documentation.html))
 to provide a uniform platform providing storage and compute across a heterogenous set of hardware.
@@ -67,7 +66,7 @@ of the high-performance computing infrastructure we have available.
 As part of the problem solving, I contribute to many public open source projects to fix
 bugs, improve performance, and add new features. I have contributed to projects such as
 [ITK](https://itk.org/), [bpipe](https://bpipe.org/), [ANTs](https://github.com/ANTsX/ANTs),
-[RMINC](https://github.com/Mouse-Imaging-Centre/RMINC), [fMRIPrep](https://fmriprep.org/). 
+[RMINC](https://github.com/Mouse-Imaging-Centre/RMINC), [fMRIPrep](https://fmriprep.org/).
 In addition, I am one of the maintainers of the [MINC family](https://bic-mni.github.io/) of neuroimaging software.
 
 ## The Scientist Hat
